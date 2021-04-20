@@ -237,7 +237,7 @@ input, select, textarea {
 		top: 0;
 	}
 
-	/* @-moz-keyframes bg {
+	@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
 			-webkit-transform: translate3d(0,0,0);
@@ -251,9 +251,9 @@ input, select, textarea {
 			-ms-transform: translate3d(-2250px,0,0);
 			transform: translate3d(-2250px,0,0);
 		}
-	} */
+	}
 
-	/* @-webkit-keyframes bg {
+	@-webkit-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
 			-webkit-transform: translate3d(0,0,0);
@@ -267,7 +267,7 @@ input, select, textarea {
 			-ms-transform: translate3d(-2250px,0,0);
 			transform: translate3d(-2250px,0,0);
 		}
-	} */
+	}
 
 	@-ms-keyframes bg {
 		0% {
@@ -596,73 +596,73 @@ input, select, textarea {
 			}
 
 				#header nav li:nth-child(1) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(2) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(3) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(4) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(5) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(6) {
-					-moz-animation-delay: 3.75s;
-					-webkit-animation-delay: 3.75s;
-					-ms-animation-delay: 3.75s;
-					animation-delay: 3.75s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(7) {
-					-moz-animation-delay: 4s;
-					-webkit-animation-delay: 4s;
-					-ms-animation-delay: 4s;
-					animation-delay: 4s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(8) {
-					-moz-animation-delay: 4.25s;
-					-webkit-animation-delay: 4.25s;
-					-ms-animation-delay: 4.25s;
-					animation-delay: 4.25s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(9) {
-					-moz-animation-delay: 4.5s;
-					-webkit-animation-delay: 4.5s;
-					-ms-animation-delay: 4.5s;
-					animation-delay: 4.5s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 				#header nav li:nth-child(10) {
-					-moz-animation-delay: 4.75s;
-					-webkit-animation-delay: 4.75s;
-					-ms-animation-delay: 4.75s;
-					animation-delay: 4.75s;
+					-moz-animation-delay: 2.5s;
+					-webkit-animation-delay: 2.5s;
+					-ms-animation-delay: 2.5s;
+					animation-delay: 2.5s;
 				}
 
 			#header nav a {
