@@ -224,9 +224,10 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
+		
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg1.jpg") bottom left;
+		background: #000000 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -303,6 +304,7 @@ input, select, textarea {
 		background-size: 2250px auto;
 		width: 6750px;
 	}
+	*/
 
 /* Overlay */
 
